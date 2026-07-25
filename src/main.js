@@ -112,18 +112,9 @@ const data = {
         'I assist with the development of the tierlist bot, maintaing the codebase, ensuring that the bot is running smoothly, and adding new features to the bot.',
       positions: [
         { title: 'Developer', from: '7/21/26', to: 'Present' },
+        { title: 'Lead Developer / Talent Aquisition', from: '7/25/26', to: 'Present' }
       ],
     },
-    // {
-    //   role: 'System Administrator',
-    //   org: 'UnstablePvP',
-    //   href: 'https://discord.gg/unstablepvp',
-    //   detail:
-    //     'System administration for UnstablePvP, a Minecraft server network. I assist with Pterodactyl installs, server monitoring tools, automated backups, and more.',
-    //   positions: [
-    //     { title: 'System Administrator', from: '7/16/26', to: 'Present' },
-    //   ],
-    // },
     {
       role: 'Helper',
       org: 'FableSMP',
@@ -132,18 +123,8 @@ const data = {
           'Helper for FableSMP, a Minecraft server network. I assist with moderation, player reports, and more.',
       positions: [
         { title: 'Helper', from: '7/24/26', to: 'Present' },
-      ],
+      ]
     }
-    // {
-    //   role: 'Trainee',
-    //   org: 'StablePvP',
-    //   href: 'https://discord.gg/qXa9hZ4ZGx',
-    //   detail:
-    //       'Trainee for StablePvP, a Minecraft server network. I assist with moderation, player reports, and more.',
-    //   positions: [
-    //     { title: 'Trainee', from: '7/19/26', to: 'Present' },
-    //   ],  
-    // }
   ],
 
   vouches: [
