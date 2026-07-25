@@ -125,16 +125,6 @@ const data = {
     //   ],
     // },
     {
-      role: 'Moderator',
-      org: 'Vincent Vanilla',
-      href: 'https://discord.gg/vincentvanilla',
-      detail:
-          'Moderator for Vincent Vanilla, a Minecraft server network. I assist with moderation, player reports, and more.',
-      positions: [
-        { title: 'Moderator', from: '7/18/26', to: 'Present' },
-      ],
-    },
-    {
       role: 'Helper',
       org: 'FableSMP',
       href: 'https://discord.gg/fablesmp',
