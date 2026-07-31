@@ -37,7 +37,7 @@ const data = {
     },
     {
       name: 'Staff Core',
-      role: 'Owner',
+      role: 'Developer',
       body: 'A Minecraft staff moderation plugin built with Kotlin on the Paper API, using MySQL and Redis to sync bans, mutes, chat controls, and vanish across multiple servers.',
     },
     {
@@ -59,6 +59,7 @@ const data = {
     },
     {
       name: 'Towny Bot',
+      href: 'https://github.com/noahhardings/towny-bot',
       role: 'Developer',
       body: 'Towny Bot is a minecraft paper plugin that hooks into the Towny API, and allows you to pull information about nations, towns, and residents to discord, it also hooks into the Towny Resources API to view the resources of a town.'
     },
@@ -66,12 +67,6 @@ const data = {
       name: 'FRC Team Website',
       role: 'Developer',
       body: 'I created a website for my high school\'s FRC team, it\'s a simple and easy to use website that allows you to view the team\'s information, and it also has a blog that allows you to view the team\'s updates.'
-    },
-    {
-      name: 'Iustitia',
-      href: 'https://thoria.fyi/iustitia/',
-      role: 'Contributor',
-      body: 'Iustitia is a client sided 1.21.11 anticheat that I ported to 26.1 for the developer, Thoria.'
     }
   ],
 
@@ -162,7 +157,13 @@ const data = {
       role: 'Developer of Iustitia',
       quote:
         'Noah assisted me with porting Iustitia, my fabric client-sided anticheat to 26.1, he was very helpful and knowledgeable in the process, and I would recommend him to anyone looking for a software engineer.',
-    }
+    },
+    {
+      name: 'Mart',
+      href: 'https://discord.com/users/1001968348822769704',
+      role: 'Owner of KingdomsMC',
+      quote:
+        'Noah made a discord bot that connected into the Towny API, and it\'s been a great feature for my community to get information from the server. He was quick, fast, and very supportive, I recommend him to anyone seeking a developer. ',}
   ],
 }
 
@@ -221,7 +222,7 @@ function render() {
       </section>
 
       <section class="section">
-        <h2>Open source</h2>
+        <h2>My Projects</h2>
         ${data.projects
           .map(
             (p) => `
