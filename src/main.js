@@ -111,13 +111,14 @@ const data = {
       ],
     },
     {
-      role: 'Helper',
+      role: 'Staff Member',
       org: 'FableSMP',
       href: 'https://discord.gg/fablesmp',
       detail:
-          'Helper for FableSMP, a Minecraft server network. I assist with moderation, player reports, and more.',
+          'Staff Member for FableSMP, a Minecraft server network. I assist with moderation, player reports, and more.',
       positions: [
-        { title: 'Helper', from: '7/24/26', to: 'Present' },
+        { title: 'Helper', from: '7/24/26', to: '7/27/26' },
+        { title: 'Jr. Moderator', from: '7/27/26', to: 'Present' }
       ]
     }
   ],
