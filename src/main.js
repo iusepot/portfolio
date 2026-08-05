@@ -6,7 +6,7 @@ const data = {
   intro:
     'Hello, I\'m Noah, a software engineer and system administrator. I have experience with building AIO minecraft cores, Discord bots, and I also like doing system administration. I\'m currently working on a few open-source projects, and I\'m always looking for new opportunities to learn and grow.',
   links: [
-    { label: 'github', href: 'https://github.com/noahhardings' },
+    { label: 'github', href: 'https://github.com/iusepot' },
     { label: 'bio', href: 'https://e-z.bio/kotlin' },
     { label: 'discord', copy: 'noah.kt', title: 'noah.kt — click to copy' },
     { label: 'telegram', href: 'https://t.me/noahdotkt'},
