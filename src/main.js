@@ -67,6 +67,22 @@ const data = {
       name: 'FRC Team Website',
       role: 'Developer',
       body: 'I created a website for my high school\'s FRC team, it\'s a simple and easy to use website that allows you to view the team\'s information, and it also has a blog that allows you to view the team\'s updates.'
+    },
+    {
+      name: 'Iustitia',
+      role: 'Contributor',
+      body: 'Iustitia is a fabric client-sided anticheat for Minecraft, I assisted with porting it to 26.1, and I also helped with some bug fixes and improvements.'
+    },
+    {
+      name: 'Lucnoxity Infrastructure',
+      role: 'Developer',
+      href: 'https://discord.gg/brdtPMjHB9',
+      body: 'I created the backend infrastructure for the Lucnoxity Tierlist bot, which allows users to create and manage tierlists for various games. I also assist with maintaining the codebase, ensuring that the bot is running smoothly, and adding new features to the bot.'
+    },
+    {
+      name: 'InvokeMC Discord Bot',
+      role: 'Developer',
+      body: 'I developed a Discord bot for the InvokeMC community, which includes features like moderation, user management, and integration with various APIs.'
     }
   ],
 
@@ -104,7 +120,7 @@ const data = {
       org: 'Lucnoxity Tierlist',
       href: 'https://discord.gg/brdtPMjHB9',
       detail:
-        'I assist with the development of the tierlist bot, maintaing the codebase, ensuring that the bot is running smoothly, and adding new features to the bot.',
+        'I created the backend infrastructure for the Lucnoxity Tierlist bot, which allows users to create and manage tierlists for various games. I also assist with maintaining the codebase, ensuring that the bot is running smoothly, and adding new features to the bot.',
       positions: [
         { title: 'Developer', from: '7/21/26', to: 'Present' },
         { title: 'Lead Developer / Talent Aquisition', from: '7/25/26', to: 'Present' }
