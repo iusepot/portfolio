@@ -31,7 +31,7 @@ const data = {
   projects: [
     {
       name: 'Alchemist',
-      href: 'https://github.com/noahhardings/Alchemist',
+      href: 'https://github.com/iusepot/Alchemist',
       role: 'Maintainer',
       body: 'Alchemist is a fast, cross-version Minecraft server rank/permissions core (ranks, punishments, friends, parties, staff utils, and webhooks); Built with Kotlin on the Paper API, using MongoDB / MySQL and Redis to sync data across multiple servers. It is designed to be easy to use, while also being powerful and flexible.',
     },
@@ -53,13 +53,13 @@ const data = {
     },
     {
       name: 'Portfolio',
-      href: 'https://github.com/noahhardings/portfolio',
+      href: 'https://github.com/iusepot/portfolio',
       role: 'Developer',
       body: 'Nothing much to say here, built on NodeJS, simple site that allows me to showcase my projects, reviews, and general information.'
     },
     {
       name: 'Towny Bot',
-      href: 'https://github.com/noahhardings/towny-bot',
+      href: 'https://github.com/iusepot/towny-bot',
       role: 'Developer',
       body: 'Towny Bot is a minecraft paper plugin that hooks into the Towny API, and allows you to pull information about nations, towns, and residents to discord, it also hooks into the Towny Resources API to view the resources of a town.'
     },
