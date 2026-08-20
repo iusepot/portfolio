@@ -72,17 +72,6 @@ const data = {
       name: 'Iustitia',
       role: 'Contributor',
       body: 'Iustitia is a fabric client-sided anticheat for Minecraft, I assisted with porting it to 26.1, and I also helped with some bug fixes and improvements.'
-    },
-    {
-      name: 'Lucnoxity Infrastructure',
-      role: 'Developer',
-      href: 'https://discord.gg/brdtPMjHB9',
-      body: 'I created the backend infrastructure for the Lucnoxity Tierlist bot, which allows users to create and manage tierlists for various games. I also assist with maintaining the codebase, ensuring that the bot is running smoothly, and adding new features to the bot.'
-    },
-    {
-      name: 'InvokeMC Discord Bot',
-      role: 'Developer',
-      body: 'I developed a Discord bot for the InvokeMC community, which includes features like moderation, user management, and integration with various APIs.'
     }
   ],
 
@@ -120,12 +109,28 @@ const data = {
       org: 'Lucnoxity Tierlist',
       href: 'https://discord.gg/brdtPMjHB9',
       detail:
-        'I created the backend infrastructure for the Lucnoxity Tierlist bot, which allows users to create and manage tierlists for various games. I also assist with maintaining the codebase, ensuring that the bot is running smoothly, and adding new features to the bot.',
+        'I created the backend infrastructure for the Lucnoxity Tierlist bot, It utilizes Kubernetes for orchestration and management. I also am the project lead, and I am responsible for maintaining the codebase, ensuring that the bot is running smoothly, and adding new features to the bot.',
       positions: [
         { title: 'Developer', from: '7/21/26', to: 'Present' },
         { title: 'Lead Developer / Talent Aquisition', from: '7/25/26', to: 'Present' }
       ],
     },
+    {
+      role: 'DevOPs Engineer / System Administrator',
+      org: 'ConquestMC',
+      detail:
+        'I maintain the backend infrastructure for ConquestMC, a Minecraft server network.',
+    },
+    {
+      role: 'Developer',
+      org: 'BonkMC',
+      href: 'https://discord.gg/KHwRgKxe3a',
+      detail:
+        'I assist with the development of BonkMC\'s core minecraft plugin, "BonkRoot" which is the AIO plugin for the server.',
+      positions: [
+        { title: 'Developer', from: '8/19/26', to: 'Present' },
+      ]
+    }
     {
       role: 'Staff Member',
       org: 'FableSMP',
@@ -181,7 +186,8 @@ const data = {
       href: 'https://discord.com/users/1001968348822769704',
       role: 'Owner of KingdomsMC',
       quote:
-        'Noah made a discord bot that connected into the Towny API, and it\'s been a great feature for my community to get information from the server. He was quick, fast, and very supportive, I recommend him to anyone seeking a developer. ',}
+        'Noah made a discord bot that connected into the Towny API, and it\'s been a great feature for my community to get information from the server. He was quick, fast, and very supportive, I recommend him to anyone seeking a developer. ',
+    }
   ],
 }
 
