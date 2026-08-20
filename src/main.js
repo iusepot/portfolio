@@ -130,7 +130,7 @@ const data = {
       positions: [
         { title: 'Developer', from: '8/19/26', to: 'Present' },
       ]
-    }
+    },
     {
       role: 'Staff Member',
       org: 'FableSMP',
