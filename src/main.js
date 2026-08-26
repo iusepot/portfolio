@@ -116,12 +116,6 @@ const data = {
       ],
     },
     {
-      role: 'DevOPs Engineer / System Administrator',
-      org: 'ConquestMC',
-      detail:
-        'I maintain the backend infrastructure for ConquestMC, a Minecraft server network.',
-    },
-    {
       role: 'Developer',
       org: 'BonkMC',
       href: 'https://discord.gg/KHwRgKxe3a',
