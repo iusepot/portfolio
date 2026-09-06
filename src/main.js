@@ -133,8 +133,9 @@ const data = {
           'Staff Member for FableSMP, a Minecraft server network. I assist with moderation, player reports, and more.',
       positions: [
         { title: 'Helper', from: '7/24/26', to: '7/27/26' },
-        { title: 'Jr. Moderator', from: '7/27/26', to: '8/3/2026' },
-        { title: 'Moderator', from: '8/3/26', to: 'Present' }
+        { title: 'Jr. Moderator', from: '7/27/26', to: '8/3/26' },
+        { title: 'Moderator', from: '8/3/26', to: '9/2/26' },
+        { title: 'Sr. Moderator', from: '9/2/26', to: 'Present' }
       ]
     }
   ],
