@@ -136,16 +136,6 @@ const data = {
         { title: 'Jr. Moderator', from: '7/27/26', to: '8/3/2026' },
         { title: 'Moderator', from: '8/3/26', to: 'Present' }
       ]
-    },
-    {
-      role: 'Developer',
-      org: 'HavenMC',
-      href: 'https://discord.gg/havenmc',
-      detail:
-        'I\'m the lead coordinator / lead developer for the practice gamemode, I\'m in charge of maintaing it and ensuring it runs smoothly.',
-      positions: [
-        { title: 'Developer', from: '8/30/26', to: 'Present' },
-      ]
     }
   ],
 
