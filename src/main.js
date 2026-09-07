@@ -130,7 +130,7 @@ const data = {
       org: 'FableSMP',
       href: 'https://discord.gg/fablesmp',
       detail:
-          'Staff Member for FableSMP, a Minecraft server network. I assist with moderation, player reports, and more.',
+          'Staff Member for FableSMP, a Minecraft server network. I assisted with moderation, player reports, and more.',
       positions: [
         { title: 'Helper', from: '7/24/26', to: '7/27/26' },
         { title: 'Jr. Moderator', from: '7/27/26', to: '8/3/26' },
