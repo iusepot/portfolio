@@ -36,14 +36,14 @@ const data = {
       body: 'Alchemist is a fast, cross-version Minecraft server rank/permissions core (ranks, punishments, friends, parties, staff utils, and webhooks); Built with Kotlin on the Paper API, using MongoDB / MySQL and Redis to sync data across multiple servers. It is designed to be easy to use, while also being powerful and flexible.',
     },
     {
-      name: 'Staff Core',
+      name: 'Private Staff Core Suite',
       role: 'Developer',
-      body: 'A Minecraft staff moderation plugin built with Kotlin on the Paper API, using MySQL and Redis to sync bans, mutes, chat controls, and vanish across multiple servers.',
+      body: 'A Minecraft staff moderation plugin built with Kotlin on the Paper API, utilizing MySQL and Redis to sync bans, mutes, chat controls, and vanish across multiple servers.',
     },
     {
       name: 'Honey',
       role: 'Developer',
-      body: 'Honey is a small Kotlin library that saves and loads your data from MongoDB, Redis, or files using the same simple code, so you can swap databases without rewriting anything, and it can sync data live across servers.'
+      body: 'Honey is a small Kotlin library that saves and loads your data from MongoDB, Redis, or flat files using the same simple code, so you can swap databases without rewriting anything, and it can sync data live across servers.'
     },
     {
       name: 'Skeleton',
@@ -72,6 +72,11 @@ const data = {
       name: 'Iustitia',
       role: 'Contributor',
       body: 'Iustitia is a fabric client-sided anticheat for Minecraft, I assisted with porting it to 26.1, and I also helped with some bug fixes and improvements.'
+    },
+    { 
+      name: 'Tycoon Plugin',
+      role: 'Maintainer',
+      body: 'I assist with the development of a Tycoon AIO plugin, which includes gens, a custom island generation system, and more. It is built with Kotlin on the Paper API, and it utilizes MongoDB and Redis to sync data across multiple servers.'
     }
   ],
 
@@ -130,7 +135,7 @@ const data = {
       org: 'FableSMP',
       href: 'https://discord.gg/fablesmp',
       detail:
-          'Staff Member for FableSMP, a Minecraft server network. I assisted with moderation, player reports, and more.',
+          'Staff Member for FableSMP, a Minecraft network. I assisted with moderation, player reports, and more.',
       positions: [
         { title: 'Helper', from: '7/24/26', to: '7/27/26' },
         { title: 'Jr. Moderator', from: '7/27/26', to: '8/3/26' },
